@@ -12,3 +12,4 @@ weight: 600
 | [Event Bus](./ebus) (EBus) | Learn about EBus, the messaging infrastructure for notifications and messaging. |
 | [AzAutoGen Generator](./autogen) | Learn about the `AzAutoGen` tool, used to create code or resources from [Jinja2 templates](https://jinja.palletsprojects.com/en/3.0.x/) and XML definition files. |
 | [Memory management](./memory) | Learn how O3DE allocates and manages memory resources for games, as well as memory debugging and overrun detection. |
+| [Settings registry](./settings-registry/) | Learn about the registry files used by O3DE to detect installed engines and connect them to projects. |

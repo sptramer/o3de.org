@@ -235,6 +235,9 @@ A redistributable build of O3DE where the core engine, Gem, and tool binaries ar
 ### sequence
 The content generated from the Track View for cutscenes or other canned animation triggers.
 
+### Settings Registry
+The information stored by O3DE in the user's home directory used to tie SDK engine builds to projects, and provide other settings to use in order to build and boot an engine or project.
+
 ### shadow map
 A technique for controlling how shadows are added to a scene. You can use multiple, cascaded shadow maps to control how sun shadows look at varying distances.
 
